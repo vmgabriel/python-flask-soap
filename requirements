@@ -1,0 +1,12 @@
+flask
+Flask-Spyne
+lxml
+SQLAlchemy
+pyzmq
+Werkzeug
+Pyparsing
+Twisted
+Django
+msgpack-python
+pyYaml
+simplejson

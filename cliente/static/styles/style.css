@@ -1,0 +1,65 @@
+.caja-calculador {
+    border: 1px solid;
+    padding: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border-radius: 10px;
+    border-color: #efef;
+    background-color: #F5F5F5;
+}
+
+.row {
+    margin-bottom: 0.5em;
+}
+
+.entrada {
+    margin-bottom: 1em;
+}
+
+footer {
+    diplay: grid;
+    padding-top: 2em;
+    color: #616161;
+    background-color: #212121;
+}
+
+.imagen_lugar {
+    height: auto !important;
+}
+
+.descripcion {
+    padding-top: 3em;
+    padding-bottom: 1em;
+    background-color: #70a55d;
+    color: white;
+}
+
+.text-headline {
+    font-size: 17px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    font-size: 1.84rem;
+    font-weight: 400;
+    line-height: 2.46rem;
+}
+
+.logo-ud {
+    display: grid;
+    justify-content: center;
+}
+
+.logo-ud img {
+    justify-items: center;
+    align-items: center;
+}
+
+footer .row-copy: {
+    display: grid;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 13px;
+    align-items: center;
+    justify-items: center;
+}
